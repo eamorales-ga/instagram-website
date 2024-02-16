@@ -12,13 +12,16 @@
  color: white;
  padding: 10px;
 }
-
+img{
+    border-radius: 50%;
+}
 .carousel-images{
     display: flex;
     height: 250px;
     background-color: black;
     justify-content: space-evenly;
 }
+
 .lowerheader{
 display: flex;
 justify-content: flex-start;
